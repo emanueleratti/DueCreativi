@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="it">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Cowork Versilia | DueCreativi</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="../style.css" />
+  </head>
+
+  <body>
+    <header>
+      <nav class="navbar navbar-expand-lg fixed-top transition-bg">
+        <div class="container">
+          <a class="navbar-logo" href="#">
+            <img src="../assets/logo.svg" alt="logo" />
+          </a>
+
+          <!-- TOGGLE BURGHER MENU -->
+          <button
+            class="navbar-toggler border-0"
+            type="button"
+            data-bs-toggle="offcanvas"
+            data-bs-target="#navMobile"
+            aria-controls="navMobile"
+            aria-label="Apri menu"
+          >
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <!-- MENU DESKTOP -->
+          <div class="collapse navbar-collapse">
+            <ul
+              class="navbar-nav mx-lg-auto d-flex justify-content-around gap-lg-2"
+            >
+              <li class="nav-item">
+                <a
+                  class="nav-link menu-style"
+                  href="../index.html#projects-title"
+                  >Progetti</a
+                >
+              </li>
+              <li class="nav-item">
+                <a
+                  class="nav-link menu-style"
+                  href="../index.html#service-title"
+                  >Servizi</a
+                >
+              </li>
+              <li class="nav-item">
+                <a class="nav-link menu-style" href="../index.html#about"
+                  >Chi siamo</a
+                >
+              </li>
+              <li class="nav-item">
+                <a
+                  class="nav-link menu-style"
+                  href="../index.html#contact-title"
+                  >Contatti</a
+                >
+              </li>
+            </ul>
+          </div>
+          <a
+            class="btn-cta circle d-none d-lg-block"
+            href="../index.html#cta-footer"
+          >
+            <p>
+              Hai un progetto <br />
+              in mente? <br /><strong>Parliamone!</strong>
+            </p>
+          </a>
+        </div>
+      </nav>
+
+      <!-- OFFCANVAS MOBILE -->
+      <div
+        class="offcanvas offcanvas-start"
+        tabindex="-1"
+        id="navMobile"
+        aria-labelledby="navMobileLabel"
+      >
+        <div class="offcanvas-header">
+          <a class="navbar-logo" href="#">
+            <img src="assets/logo-white.svg" alt="logo" />
+          </a>
+          <button
+            type="button"
+            class="btn-close btn-close-white"
+            data-bs-dismiss="offcanvas"
+            aria-label="Chiudi"
+          ></button>
+        </div>
+        <div class="offcanvas-body">
+          <div></div>
+          <ul class="navbar-nav">
+            <!-- MENU MOBILE -->
+            <li class="nav-item">
+              <a
+                class="nav-link menu-style"
+                href="../index.html#projects-title"
+                data-bs-dismiss="offcanvas"
+                >Progetti</a
+              >
+            </li>
+            <li class="nav-item">
+              <a
+                class="nav-link menu-style"
+                href="../index.html#service-title"
+                data-bs-dismiss="offcanvas"
+                >Servizi</a
+              >
+            </li>
+            <li class="nav-item">
+              <a
+                class="nav-link menu-style"
+                href="../index.html#about"
+                data-bs-dismiss="offcanvas"
+                >Chi siamo</a
+              >
+            </li>
+            <li class="nav-item">
+              <a
+                class="nav-link menu-style"
+                href="../index.html#contact-title"
+                data-bs-dismiss="offcanvas"
+                >Contatti</a
+              >
+            </li>
+          </ul>
+          <a
+            class="btn-cta circle d-block d-lg-none"
+            href="../index.html#cta-footer"
+          >
+            <p>
+              Hai un progetto <br />
+              in mente? <br /><strong>Parliamone!</strong>
+            </p>
+          </a>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <!-- HERO SECTION -->
+      <div class="container">
+        <div class="row py-5">
+          <div class="col col-lg-10 col-sm-10">
+            <h1 class="mt-5">
+              Cowork <br />
+              Versilia
+            </h1>
+            <div class="badge-buttons d-flex flex-wrap gap-2 my-5">
+              <a href="#" class="badge-btn">Web Design</a>
+              <a href="#" class="badge-btn">Hosting managment</a>
+              <a href="#" class="badge-btn">Logo</a>
+              <a href="#" class="badge-btn">Branding</a>
+              <a href="#" class="badge-btn">Altro</a>
+            </div>
+            <p>
+              Sito vetrina per Cowork Versilia, di Olga Tartarelli, spazio
+              coworking, uffici e postazioni condivise a Pietrasanta.
+              Realizzazione di comunicazione digitale, logo e grafiche
+              illustrative dei servizi offerti. Realizzazione e gestione sito
+              web. Testi e contenuti a cura di Chiara Savio.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <!-- PROGETTI SECTION -->
+      <div class="container py-3">
+        <div class="row row-cols-1 row-cols-md-1 row-cols-lg-2 g-4">
+          <div class="col">
+            <img
+              src="assets/progetti1.png"
+              alt="Progetto 1"
+              class="img-fluid rounded-3 object-fit-cover w-100 h-100"
+            />
+          </div>
+
+          <div class="col">
+            <img
+              src="assets/progetti2.png"
+              alt="Progetto 1"
+              class="img-fluid rounded-3 object-fit-cover w-100 h-100"
+            />
+          </div>
+
+          <div class="col">
+            <img
+              src="assets/progetti3.png"
+              alt="Progetto 1"
+              class="img-fluid rounded-3 object-fit-cover w-100 h-100"
+            />
+          </div>
+
+          <div class="col">
+            <img
+              src="assets/progetti4.png"
+              alt="Progetto 1"
+              class="img-fluid rounded-3 object-fit-cover w-100 h-100"
+            />
+          </div>
+        </div>
+
+        <div class="row row-cols-2 my-3 g-2 justify-content-center">
+          <div class="col d-flex justify-content-center">
+            <img
+              src="assets/progetti5.png"
+              alt="Mini progetto 1"
+              class="img-fluid rounded-3 object-fit-cover small-img"
+            />
+          </div>
+
+          <div class="col d-flex justify-content-center">
+            <img
+              src="assets/progetti6.png"
+              alt="Mini progetto 1"
+              class="img-fluid rounded-3 object-fit-cover small-img"
+            />
+          </div>
+
+          <div class="col d-flex justify-content-center">
+            <img
+              src="assets/progetti7.png"
+              alt="Mini progetto 1"
+              class="img-fluid rounded-3 object-fit-cover small-img"
+            />
+          </div>
+
+          <div class="col d-flex justify-content-center">
+            <img
+              src="assets/progetti8.png"
+              alt="Mini progetto 1"
+              class="img-fluid rounded-3 object-fit-cover small-img"
+            />
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <footer>
+        <div
+          id="footer"
+          class="container-fluid bg-dark px-0 d-flex flex-column gap-0 gap-lg-5"
+        >
+          <div class="container-fluid ticker-bar-single px-0">
+            <div class="ticker-single" aria-label="Payoff aziendale">
+              <div
+                class="ticker-single_track"
+                id="tickerSingleTrack"
+                role="list"
+                aria-live="polite"
+              >
+                <span class="ticker_item sans-serif-4" role="listitem">
+                  Design, codice e strategia per far crescere i tuoi progetti
+                  online.&nbsp;
+                </span>
+              </div>
+            </div>
+          </div>
+  
+          <div class="container d-flex flex-column gap-0 gap-lg-5 px-5 px-lg-0">
+            <div class="row my-5 row-gap-5">
+              <div class="col-6 offset-1 text-white d-flex flex-column gap-3">
+                <h4 class="sans-serif-5">
+                  Servizi pensati per far crescere il tuo business
+                </h4>
+                <h5 class="sans-serif-6">
+                  Siti web, e-commerce, brand identity e SEO: tutto ciò che serve
+                  per far funzionare le tue idee nel digitale.
+                </h5>
+                <p class="text-style">
+                  Crediamo nella trasparenza, nella collaborazione e nella cura
+                  dei dettagli. Ogni progetto è un investimento di fiducia: il
+                  nostro obiettivo è trasformarlo in risultati concreti.
+                </p>
+                <p class="mb-0 text-style">
+                  © 2025 duepunticreativi - Tutti i diritti sono riservati.
+                </p>
+              </div>
+  
+              <div
+                class="col-3 col-lg-4 offset-1 offset-lg-0 d-flex flex-column align-items-end gap-1"
+              >
+                <a href="../index.html#projects-title" class="link-footer text-style">Progetti</a>
+                <a href="../index.html#service-title" class="link-footer text-style">Servizi</a>
+                <a href="../index.html#about" class="link-footer text-style">Chi siamo</a>
+                <a href="../index.html#contact-title" class="link-footer text-style">Contatti</a>
+                <br />
+                <a href="../privacy.html" class="link-footer text-style">Privacy</a>
+                <a href="../cookie.html" class="link-footer text-style">Cookie</a>
+                <br />
+                <a href="#" class="link-footer text-style">LinkedIn</a>
+                <a href="#" class="link-footer text-style">Github</a>
+                <br />
+                <div class="d-flex justify-content-end">
+                <img src="../assets/logo-footer.png" alt="logo2" width="100%" />
+              </div>
+            </div>
+  
+            <div id="cta-footer"
+              class="cta-footer mt-3 mt-lg-5 mb-0 rounded-5 p-5 d-flex flex-column flex-md-row gap-3 gap-lg-0 justify-content-between"
+            >
+              <div class="col-12 col-md-8">
+                <h3 class="sans-serif-3">
+                  Hai un idea? <br />
+                  <strong>Parliamone!</strong>
+                </h3>
+  
+                <p class="text-style">
+                  Scrivici e raccontaci cosa vuoi realizzare: troveremo insieme la
+                  soluzione più efficace per dare forma al tuo progetto.
+                </p>
+              </div>
+  
+              <div
+                class="col-2 col-md-1 col-lg-3 d-flex align-items-center justify-content-end"
+              >
+                <a href="mailto:info@duepunticreativi.it">
+                  <svg
+                    width="100%"
+                    height="100"
+                    viewBox="0 0 200 200"
+                    fill="none"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M91.1626 196.341C93.6001 198.778 96.8001 200.003 100 200.003C103.2 200.003 106.4 198.778 108.838 196.341L196.134 109.044C197.111 108.111 197.937 107.021 198.571 105.814C200.488 102.172 200.481 97.789 198.55 94.1523C197.919 92.9621 197.101 91.8859 196.135 90.963L108.838 3.66563C103.95 -1.22188 96.0501 -1.22188 91.1626 3.66563C86.2751 8.55312 86.2751 16.4531 91.1626 21.3406L157.325 87.5031H12.5C5.6 87.5031 0 93.1031 0 100.003C0 106.903 5.6 112.503 12.5 112.503H157.325L91.1626 178.666C86.2751 183.553 86.2751 191.453 91.1626 196.341Z"
+                      fill="#0D0D0D"
+                    />
+                  </svg>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer>
+      <script
+      src=" https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+      crossorigin="anonymous"
+    ></script>
+    <script src="../script.js"></script>
+  </body>
+</html>
