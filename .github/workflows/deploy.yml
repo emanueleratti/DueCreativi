@@ -20,6 +20,6 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           port: 21
           security: loose
-          server-dir: /public_html
+          server-dir: /
           local-dir: ./
           dangerous-clean-slate: false
