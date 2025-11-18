@@ -1,0 +1,48 @@
+{
+  "title": "Aida Toscana 2.0",
+  "titleFull": "Aida Toscana 2.0 | DueCreativi",
+  "thumbnail": "assets/projects/aida-toscana-2/aida-toscana-2_1.webp",
+  "shortDescription": "Sito web istituzionale per il progetto europeo AIDA 2.0",
+  "tags": [
+    "Graphic",
+    "Web",
+    "Sito vetrina",
+    "Hosting Management"
+  ],
+  "description": "Sito web istituzionale per il progetto europeo AIDA 2.0, promosso dalla Regione Toscana. Realizzazione del sito web, progettazione del logo, sviluppo dell'identità visiva e dell'immagine coordinata. Creazione di materiale divulgativo (digitale e cartaceo) e gestione dell'hosting.",
+  "images": {
+    "main": [
+      {
+        "src": "../../assets/projects/aida-toscana-2/aida-toscana-2_1.webp",
+        "alt": "Aida Toscana 2.0 - Vista principale"
+      },
+      {
+        "src": "../../assets/projects/aida-toscana-2/aida-toscana-2_2.webp",
+        "alt": "Aida Toscana 2.0 - Dettaglio progetto"
+      },
+      {
+        "src": "../../assets/projects/aida-toscana-2/aida-toscana-2_3.webp",
+        "alt": "Aida Toscana 2.0 - Identità visiva"
+      }
+    ],
+    "secondary": [
+      {
+        "src": "../../assets/projects/aida-toscana-2/aida-toscana-2_4.webp",
+        "alt": "Aida Toscana 2.0 - Logo design"
+      },
+      {
+        "src": "../../assets/projects/aida-toscana-2/aida-toscana-2_5.webp",
+        "alt": "Aida Toscana 2.0 - Materiale divulgativo"
+      },
+      {
+        "src": "../../assets/projects/aida-toscana-2/aida-toscana-2_6.webp",
+        "alt": "Aida Toscana 2.0 - Immagine coordinata"
+      },
+      {
+        "src": "../../assets/projects/aida-toscana-2/aida-toscana-2_7.webp",
+        "alt": "Aida Toscana 2.0 - Sito web"
+      }
+    ]
+  }
+}
+

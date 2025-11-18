@@ -1,0 +1,48 @@
+{
+  "title": "Biacre Laboratori Cosmetici",
+  "titleFull": "Biacre Laboratori Cosmetici | DueCreativi",
+  "thumbnail": "assets/projects/biacre/biacre_1.webp",
+  "shortDescription": "Sito e-commerce per Biacrè, azienda di prodotti cosmetici professionali per capelli",
+  "tags": [
+    "Graphic",
+    "Web",
+    "E-commerce",
+    "Hosting Management"
+  ],
+  "description": "Sito e-commerce per Biacrè, azienda di prodotti cosmetici professionali per capelli con sede a Prato. Progettazione del layout grafico e sviluppo del sito e-commerce su WordPress/WooCommerce.",
+  "images": {
+    "main": [
+      {
+        "src": "../../assets/projects/biacre/biacre_1.webp",
+        "alt": "Biacre - Vista principale"
+      },
+      {
+        "src": "../../assets/projects/biacre/biacre_2.webp",
+        "alt": "Biacre - E-commerce"
+      },
+      {
+        "src": "../../assets/projects/biacre/biacre_3.webp",
+        "alt": "Biacre - Layout grafico"
+      }
+    ],
+    "secondary": [
+      {
+        "src": "../../assets/projects/biacre/biacre_4.webp",
+        "alt": "Biacre - Dettaglio prodotti"
+      },
+      {
+        "src": "../../assets/projects/biacre/biacre_5.webp",
+        "alt": "Biacre - Cosmetici professionali"
+      },
+      {
+        "src": "../../assets/projects/biacre/biacre_6.webp",
+        "alt": "Biacre - WordPress/WooCommerce"
+      },
+      {
+        "src": "../../assets/projects/biacre/biacre_7.webp",
+        "alt": "Biacre - Sito e-commerce"
+      }
+    ]
+  }
+}
+

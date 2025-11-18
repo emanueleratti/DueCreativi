@@ -840,7 +840,7 @@ html {
     letter-spacing: -0.0625rem;
   }
   .sans-serif-6 {
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     letter-spacing: -0.0625rem;
   }
 
@@ -865,6 +865,7 @@ html {
     letter-spacing: -0.1875rem;
   }
   .sans-serif-3 {
+    font-size: 4.5rem;
     letter-spacing: -0.125rem;
   }
   .sans-serif-4 {
@@ -894,7 +895,7 @@ html {
   }
 
   #projects-title {
-    margin-top: 4rem;
+    margin-top: 5rem;
   }
 
   #projects {

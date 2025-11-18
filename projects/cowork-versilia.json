@@ -1,0 +1,49 @@
+{
+  "title": "Cowork Versilia",
+  "titleFull": "Cowork Versilia | DueCreativi",
+  "thumbnail": "assets/projects/cowork-versilia/cowork-versilia_1.webp",
+  "shortDescription": "Sito vetrina per Cowork Versilia, spazio coworking a Pietrasanta",
+  "tags": [
+    "Web Design",
+    "Hosting managment",
+    "Logo",
+    "Branding",
+    "Altro"
+  ],
+  "description": "Sito vetrina per Cowork Versilia, di Olga Tartarelli, spazio coworking, uffici e postazioni condivise a Pietrasanta. Realizzazione di comunicazione digitale, logo e grafiche illustrative dei servizi offerti. Realizzazione e gestione sito web. Testi e contenuti a cura di Chiara Savio.",
+  "images": {
+    "main": [
+      {
+        "src": "../../assets/projects/cowork-versilia/cowork-versilia_2.webp",
+        "alt": "Cowork Versilia - Vista principale"
+      },
+      {
+        "src": "../../assets/projects/cowork-versilia/cowork-versilia_3.webp",
+        "alt": "Cowork Versilia - Dettaglio servizi"
+      },
+      {
+        "src": "../../assets/projects/cowork-versilia/cowork-versilia_4.webp",
+        "alt": "Cowork Versilia - Spazi di lavoro"
+      }
+    ],
+    "secondary": [
+      {
+        "src": "../../assets/projects/cowork-versilia/cowork-versilia_5.webp",
+        "alt": "Cowork Versilia - Logo design"
+      },
+      {
+        "src": "../../assets/projects/cowork-versilia/cowork-versilia_6.webp",
+        "alt": "Cowork Versilia - Brand identity"
+      },
+      {
+        "src": "../../assets/projects/cowork-versilia/cowork-versilia_7.webp",
+        "alt": "Cowork Versilia - Comunicazione digitale"
+      },
+      {
+        "src": "../../assets/projects/cowork-versilia/cowork-versilia_8.webp",
+        "alt": "Cowork Versilia - Grafiche illustrative"
+      }
+    ]
+  }
+}
+

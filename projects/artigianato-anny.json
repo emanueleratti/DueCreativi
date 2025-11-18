@@ -1,0 +1,48 @@
+{
+  "title": "Artigianato Anny",
+  "titleFull": "Artigianato Anny | DueCreativi",
+  "thumbnail": "assets/projects/artigianato-anny/artigianato-anny_1.webp",
+  "shortDescription": "Sito e-commerce per Artigianato Anny, storica gioielleria artigianale a Firenze",
+  "tags": [
+    "Graphic",
+    "Web",
+    "E-commerce",
+    "Hosting Management"
+  ],
+  "description": "Sito e-commerce per Artigianato Anny di Andrea Masi, storica gioielleria artigianale nel centro di Firenze dal 1984. Progettazione grafica e realizzazione del sito e-commerce su WordPress/WooCommerce.",
+  "images": {
+    "main": [
+      {
+        "src": "../../assets/projects/artigianato-anny/artigianato-anny_1.webp",
+        "alt": "Artigianato Anny - Vista principale"
+      },
+      {
+        "src": "../../assets/projects/artigianato-anny/artigianato-anny_2.webp",
+        "alt": "Artigianato Anny - E-commerce"
+      },
+      {
+        "src": "../../assets/projects/artigianato-anny/artigianato-anny_3.webp",
+        "alt": "Artigianato Anny - Progettazione grafica"
+      }
+    ],
+    "secondary": [
+      {
+        "src": "../../assets/projects/artigianato-anny/artigianato-anny_4.webp",
+        "alt": "Artigianato Anny - Dettaglio prodotti"
+      },
+      {
+        "src": "../../assets/projects/artigianato-anny/artigianato-anny_5.webp",
+        "alt": "Artigianato Anny - Design gioielli"
+      },
+      {
+        "src": "../../assets/projects/artigianato-anny/artigianato-anny_6.webp",
+        "alt": "Artigianato Anny - WordPress/WooCommerce"
+      },
+      {
+        "src": "../../assets/projects/artigianato-anny/artigianato-anny_7.webp",
+        "alt": "Artigianato Anny - Sito e-commerce"
+      }
+    ]
+  }
+}
+

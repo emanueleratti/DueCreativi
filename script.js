@@ -108,6 +108,23 @@ document.addEventListener("scroll", () => {
   }
 });
 
+// Chiudi offcanvas al click sui link del menu mobile
+document.addEventListener("DOMContentLoaded", () => {
+  const offcanvas = document.getElementById("navMobile");
+  const offcanvasLinks = offcanvas?.querySelectorAll("a");
+
+  if (offcanvas && offcanvasLinks) {
+    offcanvasLinks.forEach((link) => {
+      link.addEventListener("click", () => {
+        const bsOffcanvas = bootstrap.Offcanvas.getInstance(offcanvas);
+        if (bsOffcanvas) {
+          bsOffcanvas.hide();
+        }
+      });
+    });
+  }
+});
+
 // ========================================
 // SCALING FLUIDO TRAMITE REM
 // ========================================

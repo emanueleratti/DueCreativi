@@ -1,0 +1,48 @@
+{
+  "title": "Dimensione Casa",
+  "titleFull": "Dimensione Casa | DueCreativi",
+  "thumbnail": "assets/projects/dimensione-casa/dimensione-casa_1.webp",
+  "shortDescription": "Sito web e immagine coordinata per l'agenzia immobiliare Dimensione Casa, con sedi a Brescia e in Versilia",
+  "tags": [
+    "Graphic",
+    "Web",
+    "Sito vetrina",
+    "Hosting Management"
+  ],
+  "description": "Sito web e immagine coordinata per l'agenzia immobiliare Dimensione Casa, con sedi a Brescia e in Versilia. Progettazione e realizzazione del sito WordPress con gestionale per annunci e mappa interattiva. Sviluppo dell'identità visiva e immagine coordinata.",
+  "images": {
+    "main": [
+      {
+        "src": "../../assets/projects/dimensione-casa/dimensione-casa_1.webp",
+        "alt": "Dimensione Casa - Vista principale"
+      },
+      {
+        "src": "../../assets/projects/dimensione-casa/dimensione-casa_2.webp",
+        "alt": "Dimensione Casa - Sito WordPress"
+      },
+      {
+        "src": "../../assets/projects/dimensione-casa/dimensione-casa_3.webp",
+        "alt": "Dimensione Casa - Gestionale annunci"
+      }
+    ],
+    "secondary": [
+      {
+        "src": "../../assets/projects/dimensione-casa/dimensione-casa_4.webp",
+        "alt": "Dimensione Casa - Mappa interattiva"
+      },
+      {
+        "src": "../../assets/projects/dimensione-casa/dimensione-casa_5.webp",
+        "alt": "Dimensione Casa - Identità visiva"
+      },
+      {
+        "src": "../../assets/projects/dimensione-casa/dimensione-casa_6.webp",
+        "alt": "Dimensione Casa - Immagine coordinata"
+      },
+      {
+        "src": "../../assets/projects/dimensione-casa/dimensione-casa_7.webp",
+        "alt": "Dimensione Casa - Agenzia immobiliare"
+      }
+    ]
+  }
+}
+
